@@ -1,5 +1,3 @@
-<img src="https://github.com/macalha/svg/blob/master/macalha.min.svg"/>
-
 - 👋 Hi, I’m @macalha
 - 👀 I’m interested in programming languages, web protocols, and new technologies
 - 🌱 I’m currently learning everything is possible to make with Raspberry Pi
